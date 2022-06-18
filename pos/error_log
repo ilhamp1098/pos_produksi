@@ -1,0 +1,423 @@
+[15-Jun-2022 12:59:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:00:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer_tambah.php:6
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer_tambah.php(6): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer_tambah.php on line 6
+[15-Jun-2022 13:01:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ilhampah/public_html/pos/customer.php:5
+Stack trace:
+#0 /home/ilhampah/public_html/pos/customer.php(5): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/customer.php on line 5
+[15-Jun-2022 13:05:55 UTC] PHP Warning:  Undefined array key "name" in /home/ilhampah/public_html/pos/customer_tambah.php on line 49
+[15-Jun-2022 13:07:35 UTC] PHP Parse error:  syntax error, unexpected variable "$urutan", expecting "," or ";" in /home/ilhampah/public_html/pos/customer_tambah.php on line 12
+[17-Jun-2022 02:00:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/barang_tambah.php on line 42
+[17-Jun-2022 12:25:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:25:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:25:57 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:25:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 /home/ilhampah/public_html/pos/cek_customer.php(7): mysqli_query(NULL, 'SELECT * FROM m...')
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:25:58 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:25:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:25:58 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:25:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 /home/ilhampah/public_html/pos/cek_customer.php(7): mysqli_query(NULL, 'SELECT * FROM m...')
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:26:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:26:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:26:21 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:26:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 /home/ilhampah/public_html/pos/cek_customer.php(7): mysqli_query(NULL, 'SELECT * FROM m...')
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:26:23 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:26:23 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:26:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:26:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 /home/ilhampah/public_html/pos/cek_customer.php(7): mysqli_query(NULL, 'SELECT * FROM m...')
+#1 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:04 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:05 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:05 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:29 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:29 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:29 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:31 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:31 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:31 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:32 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:32 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:32 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:35 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/ilhampah/public_html/pos/cek_customer.php on line 2
+[17-Jun-2022 12:27:35 UTC] PHP Warning:  Undefined variable $koneksi in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:27:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ilhampah/public_html/pos/cek_customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/cek_customer.php on line 7
+[17-Jun-2022 12:28:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 16
+[17-Jun-2022 12:28:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 23
+[17-Jun-2022 12:28:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 30
+[17-Jun-2022 14:25:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 16
+[17-Jun-2022 14:25:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 23
+[17-Jun-2022 14:25:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/cek_customer.php on line 30
+[17-Jun-2022 21:34:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 103
+[17-Jun-2022 21:34:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 106
+[17-Jun-2022 21:35:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 106
+[17-Jun-2022 21:35:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:107
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 107
+[17-Jun-2022 21:35:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 106
+[17-Jun-2022 21:36:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 108
+[17-Jun-2022 21:36:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 108
+[17-Jun-2022 21:36:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 109
+[17-Jun-2022 21:37:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 109
+[17-Jun-2022 21:39:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ilhampah/public_html/pos/transaksi_tambah.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 109
+[17-Jun-2022 21:54:19 Asia/Jakarta] PHP Warning:  Undefined array key "update" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 184
+[17-Jun-2022 21:54:19 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 184
+[17-Jun-2022 21:54:23 Asia/Jakarta] PHP Warning:  Undefined array key "update" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 184
+[17-Jun-2022 21:54:23 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 184
+[18-Jun-2022 08:48:37 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 90
+[18-Jun-2022 08:49:31 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 90
+[18-Jun-2022 08:56:50 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 08:57:15 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 08:57:45 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 08:59:33 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 111
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 112
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 113
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 114
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 115
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 116
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 117
+[18-Jun-2022 09:01:50 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 118
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 111
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 112
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 113
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 114
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 115
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 116
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 117
+[18-Jun-2022 09:02:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 118
+[18-Jun-2022 09:02:41 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:05:00 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 17
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 38
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 45
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 51
+[18-Jun-2022 09:05:51 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 57
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 17
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 38
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 45
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 51
+[18-Jun-2022 09:06:08 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 57
+[18-Jun-2022 09:06:33 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:06:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:06:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:06:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:06:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:07:09 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:07:27 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:07:40 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 111
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:08:12 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 44
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:08:16 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:08:34 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:08:34 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:08:34 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:08:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:08:34 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:08:37 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:08:37 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 28
+[18-Jun-2022 09:08:37 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:08:37 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:08:37 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:09:18 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:09:18 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 135
+[18-Jun-2022 09:09:18 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 144
+[18-Jun-2022 09:09:18 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:09:18 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:09:44 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:09:44 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 135
+[18-Jun-2022 09:09:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:09:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:10:17 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:10:17 Asia/Jakarta] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 135
+[18-Jun-2022 09:10:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:10:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:10:57 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:10:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:10:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:10:57 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:11:13 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:11:13 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:11:13 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:11:13 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:11:17 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:11:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 37
+[18-Jun-2022 09:11:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 50
+[18-Jun-2022 09:11:17 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_ubah_barang.php on line 56
+[18-Jun-2022 09:11:40 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:11:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 144
+[18-Jun-2022 09:11:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:11:40 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:11:55 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:11:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 144
+[18-Jun-2022 09:11:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:11:55 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:12:31 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:12:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:12:31 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 163
+[18-Jun-2022 09:13:21 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 151
+[18-Jun-2022 09:13:21 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 09:13:42 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 100
+[18-Jun-2022 09:13:42 Asia/Jakarta] PHP Warning:  Undefined array key "sales_id" in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 145
+[18-Jun-2022 09:13:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 151
+[18-Jun-2022 09:13:42 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 157
+[18-Jun-2022 02:30:18 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/barang_ubah.php on line 5
+[18-Jun-2022 02:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/barang_ubah.php on line 22
+[18-Jun-2022 02:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/barang_ubah.php on line 29
+[18-Jun-2022 02:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/barang_ubah.php on line 35
+[18-Jun-2022 02:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/barang_ubah.php on line 41
+[18-Jun-2022 13:39:56 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:39:58 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:40:01 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:40:18 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:40:37 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:41:35 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:41:54 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php:218
+Stack trace:
+#0 {main}
+  thrown in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 218
+[18-Jun-2022 13:43:28 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 217
+[18-Jun-2022 13:43:29 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, string given in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 217
+[18-Jun-2022 06:58:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:58:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:58:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:58:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 06:59:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:00:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:01:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:02:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:04:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:04:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:04:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:04:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:04:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:11:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:11:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:11:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 07:11:12 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 58
+[18-Jun-2022 07:11:28 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 57
+[18-Jun-2022 07:12:48 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 57
+[18-Jun-2022 07:14:23 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 57
+[18-Jun-2022 07:14:23 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 57
+[18-Jun-2022 07:35:06 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:35:06 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:10 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:10 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:13 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:13 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi.php on line 98
+[18-Jun-2022 07:37:25 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:25 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:27 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:37:27 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:38:18 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:38:18 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:38:22 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:38:22 UTC] PHP Warning:  Undefined array key "id" in /home/ilhampah/public_html/pos/transaksi.php on line 60
+[18-Jun-2022 07:38:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi.php on line 98
+[18-Jun-2022 08:26:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 08:35:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 08:35:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 08:37:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 08:37:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 08:37:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_tambah.php on line 6
+[18-Jun-2022 09:58:22 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:58:28 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:58:31 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:58:49 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:58:52 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:58:55 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 133
+[18-Jun-2022 09:59:08 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 120
+[18-Jun-2022 10:00:31 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 120
+[18-Jun-2022 10:00:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_detail.php on line 132
+[18-Jun-2022 10:00:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_detail.php on line 139
+[18-Jun-2022 10:00:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_detail.php on line 146
+[18-Jun-2022 10:00:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ilhampah/public_html/pos/transaksi_detail.php on line 153
+[18-Jun-2022 10:01:17 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:01:41 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:01:47 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:02:02 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:02:35 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:03:57 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:04:09 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:05:39 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:06:03 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:08:16 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:09:29 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:13:01 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:19:05 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 10:20:30 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
+[18-Jun-2022 11:35:09 UTC] PHP Warning:  Undefined variable $subtotal in /home/ilhampah/public_html/pos/transaksi_detail.php on line 119
